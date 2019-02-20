@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace WindowsFormsApplication3
 {
+       //侵蝕
     class Erosion
     {
         public int[,,] process(int[,,] rgb, int width, int height)
